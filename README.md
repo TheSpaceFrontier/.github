@@ -19,7 +19,7 @@
 ## 📞 Ссылки
 
 - **Discord**: [ТЫК](https://discord.gg/xNw6kd5MEp)
-- **Подключиться к официальному серверу**: `thespacefrontier.ru:1212`
+- **Подключиться к официальному серверу**: `ss14://thespacefrontier.ru:1212`
 
 ---
 
